@@ -1,4 +1,4 @@
-# AndroBindi #
+# AndroBind #
 
 ## Table of Contents :floppy_disk: ##
 
@@ -13,12 +13,14 @@ Public dataset about Android Binder behavior.
 
 ## Dataset ##
 
-The dataset (AndroBindi) can be found in [here]().
+The dataset (AndroBind) can be found in [here](AndroBind-Dataset.tar.gz). Simply type `tar zxvf AndroBind-Dataset.tar.gz` to decompress the dataset.
 
 ## Contributors ## 
 
 * [Rodrigo-Lemos](https://github.com/Rodrigo-Lemos) (owner)
 * [h31nr1ch](https://github.com/h31nr1ch) (owner)
+* [cmaziero](https://github.com/cmaziero) (contributor)
 
 ## License ##
 
+[here](LICENSE)
