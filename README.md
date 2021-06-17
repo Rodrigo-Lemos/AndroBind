@@ -23,4 +23,4 @@ The dataset (AndroBind) can be found in [here](AndroBind-Dataset.tar.gz). Simply
 
 ## License ##
 
-[here](LICENSE)
+[Here](LICENSE).
